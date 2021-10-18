@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Author>Test Author #1</Author>
+    <ReleaseYear>1995</ReleaseYear>
+    <NumOfPages>1024</NumOfPages>
+  </Book>
+  <Book>
+    <Author>Vadim</Author>
+    <ReleaseYear>123</ReleaseYear>
+    <NumOfPages>123</NumOfPages>
+  </Book>
+  <Book>
+    <Author>Oleg</Author>
+    <ReleaseYear>1889</ReleaseYear>
+    <NumOfPages>200</NumOfPages>
+  </Book>
+  <Book>
+    <Author>Vadim</Author>
+    <ReleaseYear>2021</ReleaseYear>
+    <NumOfPages>199</NumOfPages>
+  </Book>
+  <Book>
+    <Author>sdfsdf</Author>
+    <ReleaseYear>2342</ReleaseYear>
+    <NumOfPages>1232</NumOfPages>
+  </Book>
+</ArrayOfBook>
